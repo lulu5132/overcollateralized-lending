@@ -1,8 +1,12 @@
-{ 
-  "sepolia": { 
-    "core": "", 
-    "collateral": "", 
-    "debt": "", 
-    "oracle": "" 
-  } 
-} 
+{
+  "network": "sepolia",
+  "MockUSD": "0x1346DABB75fEF239CBaeC966a39b6Ce2675d39a3",
+  "MockWETH": "0x9846512BF167cC4eCDCbc2A3340722f979a31055",
+  "PriceOracleMock": "0xAe4f07B209B6CDe3eEC49e40f17eC98D8Df34A92",
+  "LendingPool": "0x07BBD56FaE56C6083459Ce1c6a5C977d4B5FB250",
+  "prices": {
+    "MockUSD": "1000000000000000000",
+    "MockWETH": "2000000000000000000000"
+  },
+  "updatedAt": "2025-11-16T00:00:00Z"
+}
