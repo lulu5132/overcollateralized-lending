@@ -1,3 +1,5 @@
+"use client";
+
 import { Space_Grotesk } from "next/font/google";
 import "@rainbow-me/rainbowkit/styles.css";
 import { ScaffoldEthAppWithProviders } from "~~/components/ScaffoldEthAppWithProviders";
